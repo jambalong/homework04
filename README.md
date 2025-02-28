@@ -16,13 +16,19 @@ This project is an ESLint configuration that fixes all the issues with the exist
 git clone https://github.com/jambalong/homework04
 ```
 
-2. Install dependencies
+2. Change directory
+
+```bash
+cd homework04/ten-ten-master
+```
+
+3. Install dependencies
 
 ```bash
 npm install
 ```
 
-3. Run ESLint script
+4. Run ESLint script
 
 ```bash
 npm run lint
